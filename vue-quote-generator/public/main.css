@@ -1,0 +1,94 @@
+
+
+#nav {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    text-align: center;
+    margin: 60px auto;
+    color: #707070;
+}
+
+
+#nav a {
+    text-decoration: none;
+    color: inherit;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.container {
+  font-family: 'Poppins', sans-serif;
+  color: #333;
+  margin: 0 auto;
+  padding-top: 40px;
+  text-align: center;
+  max-width: 1200px;
+ 
+
+}
+
+h1 {
+    
+    font-size: 72px;
+    font-family: 'Fraunces', serif;
+    margin-bottom: 60px;
+}
+
+h2 {
+    font-size: 36px;
+    font-family: 'Fraunces', serif;
+    font-weight: 500;
+    margin-bottom: 40px;
+}
+
+
+p {
+    color: #606060;
+    font-size: 24px;
+    line-height: 2;
+    margin-bottom: 40px;
+}
+
+
+.buttons {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+
+.buttons button {
+ 
+  font-family: 'Poppins', sans-serif;
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+ 
+}
+
+.buttons button:hover {
+  background-color: #555;
+  color: #fff;
+}
+.author {
+  font-family: 'Fraunces', serif;
+  font-style: italic;
+  color: #555;
+  margin-top: 5px;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 58px;
+  margin-top: 60px;
+}
+
+.grid-item {
+  padding: 20px;
+}
+
+.about p {
+  text-align: left;
+}
