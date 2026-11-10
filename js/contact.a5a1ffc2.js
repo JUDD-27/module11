@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_api_project"]=self["webpackChunkvue_api_project"]||[]).push([[353],{5107:function(e,n,r){r.r(n),r.d(n,{default:function(){return o}});var u=r(6768);function t(e,n){return(0,u.uX)(),(0,u.CE)(u.FK,null,[n[0]||(n[0]=(0,u.Lk)("h1",null,"Jendy Delatorre",-1)),n[1]||(n[1]=(0,u.Lk)("p",null,[(0,u.Lk)("strong",null,"Email:"),(0,u.eW)(" jdurenadedelatorre@my.wtcc.edu")],-1))],64)}var l=r(1241);const a={},c=(0,l.A)(a,[["render",t]]);var o=c}}]);
+//# sourceMappingURL=contact.a5a1ffc2.js.map
